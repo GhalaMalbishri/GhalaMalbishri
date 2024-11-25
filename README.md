@@ -12,19 +12,19 @@
  
  🔭 I’m currently working on **university projects** and contributing to **open-source initiatives**
  
- 🌱 I’m currently learning **UX/UI design and full-stack development**
+ 🌱 I’m currently learning **UX/UI design and Front end development**
 
-💬 Ask me about **Java, Python, SQL, or anything tech-related**
+<!--💬 Ask me about **Java, Python, SQL, or anything tech-related** -->
 
 ⚡ Fun fact: **When I’m not coding, you’ll find me exploring new hobbies or watching inspiring TED Talks**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:ghala.m.albishri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/ghala-albishri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
