@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **university projects** and contributing to **open-source initiatives**
+🔭 I’m currently working on enhancing my skills and actively participating in open-source development.
  
  🌱 I’m currently learning **UX/UI design and Front end development**
 
