@@ -56,7 +56,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=400 height=200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=GhalaMalbishri&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=400  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=GhalaMalbishri&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/><br/>
   <img width=400 height=200 src="https://github-readme-stats-salesp07.vercel.app/api?username=GhalaMalbishri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
